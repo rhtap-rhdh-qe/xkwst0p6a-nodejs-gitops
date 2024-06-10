@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xkwst0p6a-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xkwst0p6a-nodejs-gitops
